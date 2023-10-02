@@ -12,6 +12,8 @@ namespace _2_Open_Closed_Principle
         Her defasında if - else ekleyerek çözüm bulunabilir fakat Open closed prensibine aykırı olur
         
         */
+
+        // Git denemesi
         static void Main(string[] args)
         {
          
