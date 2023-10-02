@@ -17,6 +17,7 @@ namespace _2_Open_Closed_Principle
         // Git denemesi 2
         // Git denemesi 3
         // Branch oluşturma denemesi
+        // Branch oluşturma denemesi2
         static void Main(string[] args)
         {
          
