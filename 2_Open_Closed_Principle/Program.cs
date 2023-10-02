@@ -14,6 +14,7 @@ namespace _2_Open_Closed_Principle
         */
 
         // Git denemesi
+        // Git denemesi 2
         static void Main(string[] args)
         {
          
